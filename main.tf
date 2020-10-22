@@ -10,5 +10,4 @@ terraform {
     key = "retestbucket"
     region="us-east-1"
   }
-
 }
